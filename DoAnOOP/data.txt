@@ -1,2 +1,10 @@
-Student,123,sy,5/7,0909,chikhóiy@gmail.com,KTPM,4.0
-Teacher,12345,Molten,5/7,0909,chikhoi@gmail.com,Cong Nghe,500.0
+Student,SV001,Nguyen Van An,Ha Noi,0912345678,an.nv@gmail.com,CNTT,3.5
+Student,SV002,Tran Thi Binh,HCM,0987654321,binh.tt@gmail.com,Kinh Te,3.8
+Student,SV003,Le Hoang Cuong,Da Nang,0905123456,cuong.lh@gmail.com,Ngon Ngu Anh,3.2
+Student,SV004,Pham Minh Duc,Can Tho,0934567890,duc.pm@gmail.com,Luat,3.9
+Student,SV005,Vo Thi En,Hai Phong,0945678901,en.vt@gmail.com,Y Khoa,3.6
+Teacher,GV001,Nguyen Thanh Tung,Ha Noi,0911223344,tung.nt@university.edu,Toan Tin,2500.0
+Teacher,GV002,Hoang Lan Huong,HCM,0922334455,huong.hl@university.edu,Kinh Doanh,2200.0
+Teacher,GV003,Dang Van Khanh,Da Nang,0933445566,khanh.dv@university.edu,Co Khi,2800.0
+Teacher,GV004,Bui Minh Nguyet,Can Tho,0944556677,nguyet.bm@university.edu,Van Hoc,2100.0
+Teacher,GV005,Ly Quoc Trung,Hai Phong,0955667788,trung.lq@university.edu,Vat Ly,2700.0
